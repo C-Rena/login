@@ -1,0 +1,26 @@
+
+@media (max-width: 970px) {
+    .login_div2{
+        display: none;
+    }
+    .login_form_div{
+        padding-right: 60px;
+    }
+    .login{
+        width: 100%;
+    }
+
+}
+
+
+@media (max-width: 570px) {
+    .login_form_div{
+        padding-left: 30px;
+    }
+    .login h2{
+        padding-left: 30px;
+    }
+
+
+}
+
